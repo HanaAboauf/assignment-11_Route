@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(36, 54, 64);
+}
+.loginDiv{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h1{
+    color: #17a2b8;
+}
+.blu-btn{
+    border: #17a2b8 solid 1px;
+    color: #17a2b8;
+}
+.blu-btn:hover{
+    background-color: #17a2b8;
+    color: #fff;
+}
+
+p{
+    font-family:"Titillium Web", sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.nav{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.my-marign{
+    margin-top: 300px;
+}
+button a{
+    color: gray;
+}
+.text-success {
+    color: green;
+}
+
+.text-error {
+    color: red;
+}
